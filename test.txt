@@ -4,4 +4,8 @@ pierwszy wpis!
 3 wpis
 =======
 >>>>>>> 877e019688342a902f5843735fc32fa31dd9647c
+<<<<<<< HEAD
 edycja pliku z laptopa
+=======
+po dodaniu pliku 2
+>>>>>>> 0e4f31d0e12db21f658844ecad3d54020d63d373
